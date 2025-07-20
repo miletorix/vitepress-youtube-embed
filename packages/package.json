@@ -1,11 +1,11 @@
 {
   "name": "@miletorix/vitepress-youtube-embed",
-  "version": "0.1.6",
+  "version": "1.0,0",
   "repository": {
     "type": "git",
     "url": "https://github.com/miletorix/vitepress-youtube-embed"
   },
-  "homepage": "https://miletorix.github.io/vitepress-enhanced-site-links/",
+  "homepage": "https://miletorix.github.io/vitepress-youtube-embed/",
   "description": "A minimal Vue 3 component to embed responsive YouTube videos in VitePress markdown pages using a simple syntax.",
   "main": "./dist/youtube-embed.umd.js",
   "module": "./dist/youtube-embed.es.js",
@@ -36,7 +36,8 @@
     "card",
     "link",
     "enhanced",
-    "ui"
+    "ui",
+    "youtube"
   ],
   "author": "miletorix",
   "license": "MIT",
