@@ -25,7 +25,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Github Page', link: 'https://github.com/miletorix/vitepress-youtube-embed' },
-      { text: 'NPM Page', link: 'https://www.npmjs.com/package/@miletorix/vitepress-enhanced-site-links' }
+      { text: 'NPM Page', link: 'https://www.npmjs.com/package/@miletorix/vitepress-youtube-embed' }
     ],
     sidebar: [
       { text: 'Home', link: '/index' },

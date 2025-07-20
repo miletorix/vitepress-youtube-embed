@@ -2,19 +2,14 @@
 
 Vue component to embed responsive YouTube videos in VitePress markdown pages using a simple syntax.
 
-![npm](https://img.shields.io/npm/v/@miletorix/vitepress-youtube-embed) ![npm](https://img.shields.io/npm/dw/@miletorix/vitepress-youtube-embeds) ![license](https://img.shields.io/npm/l/@miletorix/vitepress-youtube-embed)
-
 <p align="center">
-  <img src="./assets/demo.png" alt="vitepress-youtube-embed demo" width="800">
+  <img src="https://github.com/miletorix/vitepress-youtube-embed/raw/main/assets/demo.png" alt="vitepress-youtube-embed demo" width="800">
 </p>
 
 ## Live Demo and more information
 
 ✨ See it in action:  
 👉 [https://github.com/miletorix/vitepress-youtube-embed](https://github.com/miletorix/vitepress-youtube-embed)
-
-📦 NPM Package:  
-👉 [https://www.npmjs.com/package/@miletorix/vitepress-youtube-embed](https://www.npmjs.com/package/@miletorix/vitepress-youtube-embed)
 
 ## Installation
 
@@ -66,4 +61,4 @@ youtube.com/watch?v=<span style="color: CornflowerBlue">**dQw4w9WgXcQ**</span>&l
 
 **Output**
 
-![demo-2](./assets/demo-2.png) 
+![demo-2](https://github.com/miletorix/vitepress-youtube-embed/raw/main/assets/demo-2.png) 
