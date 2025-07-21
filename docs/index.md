@@ -10,7 +10,7 @@ sidebar: false
 
 Vue component to embed responsive YouTube videos in VitePress markdown pages using a simple syntax.
 
-![npm](https://img.shields.io/npm/v/@miletorix/vitepress-youtube-embed) ![npm](https://img.shields.io/npm/dw/@miletorix/vitepress-youtube-embeds) ![license](https://img.shields.io/npm/l/@miletorix/vitepress-youtube-embed)
+![npm](https://img.shields.io/npm/v/@miletorix/vitepress-youtube-embed) ![npm](https://img.shields.io/npm/dw/@miletorix/vitepress-youtube-embed) ![license](https://img.shields.io/npm/l/@miletorix/vitepress-youtube-embed)
 
 <p align="center">
   <img src="/demo.png" alt="vitepress-enhanced-site-links demo" width="800">
