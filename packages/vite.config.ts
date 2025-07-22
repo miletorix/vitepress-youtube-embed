@@ -7,6 +7,7 @@ export default defineConfig({
     lib: {
       entry: 'src/index.ts',
       name: 'YouTubeEmbed',
+      formats: ['es', 'umd'],
       fileName: (format) => `youtube-embed.${format}.js`
     },
     cssCodeSplit: true,
